@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-10T16:13:23" hostname="VOSTRODELL" time="0.018">
+  <properties/>
+  <testcase name="additional()" classname="CalculatorTest" time="0.016"/>
+  <testcase name="substractional()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="multiplication()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="deviding()" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
